@@ -5,10 +5,8 @@ Adapted applescript from [here](https://www.engadget.com/2013/02/18/applescripti
 *More detailed instructions coming soon*
 
 ```
-  orev
+  orev (today | yesterday | this-week | last-week | this-month)
   # default is this-week
-  # you can also write
-  orev (today | yesterday | last-week | this-month)
 ```
 
-To make this work, import the alrefworkflow above
+import the the alfredworkflow file to make things work
